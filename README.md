@@ -1,2 +1,2 @@
 # project 4
- Modern Colorful Digital Clock
+ Modern and Colorful Digital Clock
